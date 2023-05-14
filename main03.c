@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {	
-	char screen[500];/*가로 : 30 세로 : 15 */
+	/*
+	char screen[500];
 	int i = 0;
 		
 	while(i<500)
@@ -25,6 +26,42 @@ int main()
 	screen[433]='\n';
 	screen[464]='\0';
 	printf("%s",screen);
+	*/
+
+
+	char screen[500];
+	
+        int i= 0;
+        while(i<450)
+        {
+                screen[i]=' ';
+                i=i+1;
+        }
+
+        int a = 0;
+        while(a<15)
+        {
+                int b= 0;
+                while(b<30)
+                {
+                        if(a==0||a==14)
+                        {
+                                screen[b]='*';
+                        }
+                        else if(b==0||b==29)
+                        {
+                                screen[b]='*';
+                        }
+                        else
+                        {
+                                screen[b]=' ';
+                        }
+                        b=b+1;
+                }
+                screen[60]='\0';
+                printf("%s\n", screen);
+                a=a+1;
+        }
 	
 	
 
