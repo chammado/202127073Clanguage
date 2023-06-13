@@ -1,0 +1,11 @@
+﻿  GameCore.c
+C:\202127073C\C_language\lecture02\202127073Clanguage\QUizQuest_final\QuizQuest\GameCore.c(165,13): warning C4013: 'Intro_02'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  screen.c
+C:\202127073C\C_language\lecture02\202127073Clanguage\QUizQuest_final\QuizQuest\screen.c(83,5): warning C4013: 'desert'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\202127073C\C_language\lecture02\202127073Clanguage\QUizQuest_final\QuizQuest\screen.c(102,5): warning C4013: 'footprint'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\202127073C\C_language\lecture02\202127073Clanguage\QUizQuest_final\QuizQuest\screen.c(103,5): warning C4013: 'Pyramid'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\202127073C\C_language\lecture02\202127073Clanguage\QUizQuest_final\QuizQuest\screen.c(122,5): warning C4013: 'IngameSphinx'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\202127073C\C_language\lecture02\202127073Clanguage\QUizQuest_final\QuizQuest\screen.c(123,5): warning C4013: 'SphinxLeftFoot'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\202127073C\C_language\lecture02\202127073Clanguage\QUizQuest_final\QuizQuest\screen.c(124,5): warning C4013: 'SphinxRightFoot'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  QuizQuest.vcxproj -> C:\202127073C\C_language\lecture02\202127073Clanguage\QUizQuest_final\QuizQuest\x64\Debug\QuizQuest.exe
