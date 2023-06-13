@@ -1,0 +1,5 @@
+﻿  main.c
+C:\202127073C\C_language\lecture02\202127073Clanguage\lecture14\lecture14\main.c(81,2): warning C4013: 'SetConsoleCursorinfo'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\202127073C\C_language\lecture02\202127073Clanguage\lecture14\lecture14\main.c(104,15): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+main.obj : error LNK2019: SetConsoleCursorinfoSetCursorVisible 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\202127073C\C_language\lecture02\202127073Clanguage\lecture14\lecture14\x64\Debug\lecture14.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

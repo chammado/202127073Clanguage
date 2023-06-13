@@ -1,0 +1,4 @@
+﻿  main.c
+C:\202127073C\C_language\lecture02\202127073Clanguage\lecture12\KBG C_lengauge\KBG C_lengauge\main.c(24,107): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\202127073C\C_language\lecture02\202127073Clanguage\lecture12\KBG C_lengauge\KBG C_lengauge\main.c(24,107): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  KBG C_lengauge.vcxproj -> C:\202127073C\C_language\lecture02\202127073Clanguage\lecture12\KBG C_lengauge\x64\Debug\KBG C_lengauge.exe

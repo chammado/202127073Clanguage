@@ -1,0 +1,17 @@
+void setTitle();
+void SubTitle();
+void TitleSphinx();
+void GuidePrint();
+void MenuPrint();
+void EndPrint();
+void Horus();
+void GameoverPrint();
+void GameoverGuid();
+void GamewinPrint();
+void GamewinGuid();
+void footprint();
+void Pyramid();
+void desert();
+void IngameSphinx();
+void SphinxLeftFoot();
+void SphinxRightFoot();
