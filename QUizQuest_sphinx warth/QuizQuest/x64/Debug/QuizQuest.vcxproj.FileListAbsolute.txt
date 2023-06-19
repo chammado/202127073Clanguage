@@ -1,2 +1,0 @@
-C:\202127073C\C_language\lecture02\202127073Clanguage\QUizQuest_02\QuizQuest\x64\Debug\QuizQuest.exe
-C:\202127073C\C_language\lecture02\202127073Clanguage\QUizQuest_final\QuizQuest\x64\Debug\QuizQuest.exe
